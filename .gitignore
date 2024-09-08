@@ -8,7 +8,6 @@
 
 # dependencies
 /.vs
-/.vscode
 
 # testing
 /coverage
