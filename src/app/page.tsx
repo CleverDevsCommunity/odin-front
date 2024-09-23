@@ -1,9 +1,9 @@
 const HomePage = () => {
-  return (
-    <main className="">
-      landing
-    </main>
-  );
+   return (
+      <main className=''>
+         <span>landing</span>
+      </main>
+   )
 }
 
-export default HomePage;
+export default HomePage
