@@ -8,6 +8,17 @@ const config: Config = {
    ],
    theme: {
       extend: {
+         fontFamily: {
+            arial: ['Arial', 'sans-serif'],
+            andale: ['Andale Mono', 'monospace'],
+            consolas: ['Consolas', 'monospace'],
+            helvetica: ['Helvetica', 'sans-serif'],
+            helveticaneue: ['Helvetica Neue', 'sans-serif'],
+            inter: ['Inter', 'sans-serif'],
+            monaco: ['Monaco', 'monospace'],
+            opensans: ['Open Sans', 'sans-serif'],
+            ubuntumono: ['Ubuntu Mono', 'monospace'],
+         },
          backgroundImage: {
             'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
             'gradient-conic': 'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
