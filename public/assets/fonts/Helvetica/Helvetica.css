@@ -1,0 +1,48 @@
+@font-face {
+   font-family: 'Helvetica';
+   src: url('./font/Helvetica.ttf') format('truetype');
+   font-weight: normal;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: 'Helvetica';
+   src: url('./font/Helvetica-Bold.ttf') format('truetype');
+   font-weight: bold;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: 'Helvetica';
+   src: url('./font/Helvetica-Oblique.ttf') format('truetype');
+   font-weight: normal;
+   font-style: italic;
+}
+
+@font-face {
+   font-family: 'Helvetica';
+   src: url('./font/Helvetica-BoldOblique.ttf') format('truetype');
+   font-weight: bold;
+   font-style: italic;
+}
+
+@font-face {
+   font-family: 'Helvetica Compressed';
+   src: url('./font/helvetica-compressed-5871d14b6903a.otf') format('opentype');
+   font-weight: normal;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: 'Helvetica Light';
+   src: url('./font/helvetica-light-587ebe5a59211.ttf') format('truetype');
+   font-weight: 300;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: 'Helvetica Rounded Bold';
+   src: url('./font/helvetica-rounded-bold-5871d05ead8de.otf') format('opentype');
+   font-weight: bold;
+   font-style: normal;
+}

@@ -16,7 +16,13 @@ export default function RootLayout({
 }>) {
    return (
       <html lang='en'>
-         <body className={inter.className}>{children}</body>
+         <body
+            style={{
+               fontFamily: `${inter.style.fontFamily}, 'Helvetica Neue', Helvetica, Arial, sans-serif`,
+            }}
+         >
+            {children}
+         </body>
       </html>
    )
 }
