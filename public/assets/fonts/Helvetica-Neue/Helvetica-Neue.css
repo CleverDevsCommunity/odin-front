@@ -1,0 +1,55 @@
+@font-face {
+   font-family: 'Helvetica Neue';
+   src: url('./font/HelveticaNeueBlack.otf') format('opentype');
+   font-weight: 900;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: 'Helvetica Neue';
+   src: url('./font/HelveticaNeueBlackItalic.otf') format('opentype');
+   font-weight: 900;
+   font-style: italic;
+}
+
+@font-face {
+   font-family: 'Helvetica Neue';
+   src: url('./font/HelveticaNeueBold.otf') format('opentype');
+   font-weight: bold;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: 'Helvetica Neue';
+   src: url('./font/HelveticaNeueBoldItalic.otf') format('opentype');
+   font-weight: bold;
+   font-style: italic;
+}
+
+@font-face {
+   font-family: 'Helvetica Neue';
+   src: url('./font/HelveticaNeueHeavy.otf') format('opentype');
+   font-weight: 800;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: 'Helvetica Neue';
+   src: url('./font/HelveticaNeueHeavyItalic.otf') format('opentype');
+   font-weight: 800;
+   font-style: italic;
+}
+
+@font-face {
+   font-family: 'Helvetica Neue';
+   src: url('./font/HelveticaNeueMedium.otf') format('opentype');
+   font-weight: 500;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: 'Helvetica Neue';
+   src: url('./font/HelveticaNeueMediumItalic.otf') format('opentype');
+   font-weight: 500;
+   font-style: italic;
+}

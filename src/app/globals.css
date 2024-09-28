@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@import '/public/assets/fonts/Arial/Arial.css';
+@import '/public/assets/fonts/Consolas/Consolas.css';
+@import '/public/assets/fonts/Helvetica/Helvetica.css';
+@import '/public/assets/fonts/Helvetica-Neue/Helvetica-Neue.css';
+@import '/public/assets/fonts/Inter/Inter.css';
+@import '/public/assets/fonts/Open-Sans/Open-Sans.css';
+@import '/public/assets/fonts/Ubuntu-Mono/Ubunto-Mono.css';
+@import '/public/assets/fonts/Andale-Mono/Andale-Mono.css';
+@import '/public/assets/fonts/Monaco/Monaco.css';
